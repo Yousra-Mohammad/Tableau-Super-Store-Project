@@ -1,6 +1,6 @@
 # Tableau-Super-Store-Project
 
-My Tableau project aimed at analyzing and visualizing data from a super store. The project includes the creation of interactive dashboards to provide insights into the store's performance and top-selling products.
+
 
 ## Tableau Super Store Analysis and Visualization
 
